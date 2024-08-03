@@ -1,0 +1,5 @@
+{
+	"appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+	"appService.defaultWebAppToDeploy": "/subscriptions/f7f1374f-6023-4679-af99-9aafd16d30fd/resourceGroups/Desplieges/providers/Microsoft.Web/sites/ShoptestFront",
+	"appService.deploySubpath": "build"
+}
